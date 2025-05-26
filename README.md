@@ -1,9 +1,9 @@
 <h1>CONVOLUTION NEURAL NETWORK TO CLASSIFY HAPPY AND SAD FACES </h1>
 <h2>
-  train:val:test = 6:2:2
-  precision : 1.0
-  recall : 0.8181818
-  accuracy : 0.9375
+  train:val:test = 6:2:2<br>
+  precision : 1.0 <br>
+  recall : 0.8181818<br>
+  accuracy : 0.9375<br>
 </h2>
 
 ![WhatsApp Image 2025-05-26 at 4 18 32 PM](https://github.com/user-attachments/assets/20e6ff19-3058-44f9-8d63-12a957d0c60a)
